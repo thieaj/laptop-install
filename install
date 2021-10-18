@@ -1,0 +1,17 @@
+#Set Hostname of laptop
+sudo scutil --set HostName {HostName}
+
+# Install Homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# Install git
+brew install git
+
+# Install AWS CLI v2
+brew install awscli
+
+#Install VS Code
+brew install --cask visual-studio-code
+
+#Install VLC
+brew install VLC
