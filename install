@@ -15,3 +15,10 @@ brew install --cask visual-studio-code
 
 #Install VLC
 brew install VLC
+
+#Install terraform
+brew install terraform
+
+#install ansible
+brew install ansible
+
