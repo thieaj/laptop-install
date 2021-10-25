@@ -4,6 +4,12 @@ sudo scutil --set HostName {HostName}
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+#Install Google Chrome
+brew install --cask google-chrome
+
+#Install Setapp
+brew install --cask setapp
+
 # Install git
 brew install git
 
@@ -22,4 +28,3 @@ brew install terraform
 #install ansible
 brew install ansible
 
-a test from inside GH 
