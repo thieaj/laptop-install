@@ -7,8 +7,14 @@ sudo scutil --set HostName {HostName}
 #Install Google Chrome
 brew install --cask google-chrome
 
+#Install Firefox
+brew install --cask firefox
+
 #Install Setapp
 brew install --cask setapp
+
+#Install Hey Email
+brew install --cask hey
 
 # Install git
 brew install git
@@ -28,3 +34,5 @@ brew install terraform
 #install ansible
 brew install ansible
 
+#Install Docker
+brew install docker
