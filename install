@@ -1,4 +1,4 @@
-#S et Hostname of laptop
+#Set Hostname of laptop
 sudo scutil --set HostName {HostName}
 
 # Install Homebrew
@@ -6,6 +6,9 @@ sudo scutil --set HostName {HostName}
 
 # Check Homebrew for latest verison and install
 brew upgrade
+
+#Install Hey email Service
+brew install --cask hey
 
 # Install git
 brew install git
@@ -32,5 +35,16 @@ brew upgrade hashicorp/tap/terraform
 # Install ansible
 brew install ansible
 
+# Install TerraCognita
+brew install terracognita
+
+# Install cloud-nuke
+brew install cloud-nuke
+
 # Install Lastpass
 brew install --cask lastpass
+
+# Install Setapp
+brew install --cask setapp
+
+
