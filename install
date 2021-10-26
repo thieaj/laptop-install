@@ -29,5 +29,8 @@ brew install hashicorp/tap/terraform
 # Upgrade Terraform to latest version
 brew upgrade hashicorp/tap/terraform
 
-#I nstall ansible
+# Install ansible
 brew install ansible
+
+# Install Lastpass
+brew install --cask lastpass
