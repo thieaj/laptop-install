@@ -46,5 +46,3 @@ brew install --cask lastpass
 
 # Install Setapp
 brew install --cask setapp
-
-
