@@ -1,10 +1,10 @@
-#Set Hostname of laptop
+#S et Hostname of laptop
 sudo scutil --set HostName {HostName}
 
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-#Check Homebrew for latest verison and install
+# Check Homebrew for latest verison and install
 brew upgrade
 
 # Install git
@@ -16,18 +16,18 @@ brew install --cask github
 # Install AWS CLI v2
 brew install awscli
 
-#Install VS Code
+# Install VS Code
 brew install --cask visual-studio-code
 
-#Install VLC
+# Install VLC
 brew install VLC
 
-#Install terraform
+# Install terraform
 brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
 
-#Upgrade Terraform to latest version
+# Upgrade Terraform to latest version
 brew upgrade hashicorp/tap/terraform
 
-#install ansible
+#I nstall ansible
 brew install ansible
