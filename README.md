@@ -1,3 +1,3 @@
 # laptop-install
 
-This is my little script to install/re-install software on a laptop via Homebrew.
+This is my script/steps to install/re-install software on a laptop via Homebrew.
