@@ -4,20 +4,14 @@ sudo scutil --set HostName {HostName}
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-#Install Google Chrome
-brew install --cask google-chrome
-
-#Install Firefox
-brew install --cask firefox
-
-#Install Setapp
-brew install --cask setapp
-
-#Install Hey Email
-brew install --cask hey
+#Check Homebrew for latest verison and install
+brew upgrade
 
 # Install git
 brew install git
+
+# Install Github Desktop
+brew install --cask github
 
 # Install AWS CLI v2
 brew install awscli
@@ -29,10 +23,11 @@ brew install --cask visual-studio-code
 brew install VLC
 
 #Install terraform
-brew install terraform
+brew tap hashicorp/tap
+brew install hashicorp/tap/terraform
+
+#Upgrade Terraform to latest version
+brew upgrade hashicorp/tap/terraform
 
 #install ansible
 brew install ansible
-
-#Install Docker
-brew install docker
