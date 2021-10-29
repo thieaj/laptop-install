@@ -7,8 +7,10 @@ sudo scutil --set HostName {HostName}
 # Check Homebrew for latest verison and install
 brew upgrade
 
-#Install Hey email Service
-brew install --cask hey
+# Install Brave
+brew install --cask brave-browser
+
+#Install Airmail
 
 # Install git
 brew install git
