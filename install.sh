@@ -48,3 +48,8 @@ brew install --cask lastpass
 
 # Install Setapp
 brew install --cask setapp
+
+# Install Twitter
+
+# Intstall PocketCasts
+brew install --cask pocket-casts
