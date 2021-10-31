@@ -7,8 +7,8 @@ sudo scutil --set HostName {HostName}
 # Check Homebrew for latest verison and install
 brew upgrade
 
-# Install Brave
-brew install --cask brave-browser
+# Install Chrome
+brew install --cask google-chrome
 
 #Install Airmail
 
