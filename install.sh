@@ -15,8 +15,8 @@ brew install --cask google-chrome
 # Install git
 brew install git
 
-# Install Github Desktop
-brew install --cask github
+# Install Gitkraken
+brew install --cask gitkraken
 
 # Install AWS CLI v2
 brew install awscli
@@ -53,3 +53,8 @@ brew install --cask setapp
 
 # Intstall PocketCasts
 brew install --cask pocket-casts
+
+# Install Go Lang
+brew install go
+
+
