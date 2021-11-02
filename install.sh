@@ -37,9 +37,6 @@ brew upgrade hashicorp/tap/terraform
 # Install ansible
 brew install ansible
 
-# Install TerraCognita
-brew install terracognita
-
 # Install cloud-nuke
 brew install cloud-nuke
 
@@ -48,8 +45,6 @@ brew install --cask lastpass
 
 # Install Setapp
 brew install --cask setapp
-
-# Install Twitter
 
 # Intstall PocketCasts
 brew install --cask pocket-casts
