@@ -21,6 +21,9 @@ brew install --cask gitkraken
 # Install AWS CLI v2
 brew install awscli
 
+#Install Azure CLI
+brew install azure-cli
+
 # Install VS Code
 brew install --cask visual-studio-code
 
