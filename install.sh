@@ -4,8 +4,10 @@ sudo scutil --set HostName {HostName}
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+# add wait comment here while homebrew installs#
+
 # Check Homebrew for latest verison and install
-brew upgrade
+brew update and upgrade
 
 # Install Chrome
 brew install --cask google-chrome
@@ -54,6 +56,3 @@ brew install --cask pocket-casts
 
 # Install Go Lang
 brew install go
-
-
-THIS IS A MIRROR TEST #2
