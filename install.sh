@@ -12,8 +12,6 @@ brew update and upgrade
 # Install Chrome
 brew install --cask google-chrome
 
-#Install Airmail
-
 # Install git
 brew install git
 
