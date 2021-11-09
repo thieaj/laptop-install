@@ -18,7 +18,7 @@ brew install --cask google-chrome
 brew install git
 
 # Install Gitkraken
-brew install --cask gitkraken
+#brew install --cask gitkraken
 
 # Install AWS CLI v2
 brew install awscli
