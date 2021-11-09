@@ -27,7 +27,7 @@ brew install awscli
 brew install azure-cli
 
 # Install VS Code
-brew install --cask visual-studio-code
+brew install --cask atom
 
 # Install VLC
 brew install VLC
