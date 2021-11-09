@@ -9,14 +9,11 @@ sudo scutil --set HostName {HostName}
 # Check Homebrew for latest verison and install
 brew update and upgrade
 
-# Install Chrome
-brew install --cask google-chrome
+# Install Brave Browser
+brew install --cask brave-browser
 
 # Install git
 brew install git
-
-# Install Gitkraken
-#brew install --cask gitkraken
 
 # Install AWS CLI v2
 brew install awscli
