@@ -4,7 +4,7 @@ sudo scutil --set HostName {HostName}
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# add wait comment here while homebrew installs#
+# add wait comment here while homebrew installs
 
 # Check Homebrew for latest verison and install
 brew update and upgrade
@@ -18,11 +18,8 @@ brew install git
 # Install AWS CLI v2
 brew install awscli
 
-#Install Azure CLI
-brew install azure-cli
-
 # Install VS Code
-brew install --cask atom
+brew install --cask visual-studio-code
 
 # Install VLC
 brew install VLC
@@ -51,3 +48,6 @@ brew install --cask pocket-casts
 
 # Install Go Lang
 brew install go
+
+#Install NodeJS
+brew install node
