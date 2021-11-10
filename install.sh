@@ -46,6 +46,9 @@ brew install --cask setapp
 # Intstall PocketCasts
 brew install --cask pocket-casts
 
+# Install Zoom
+brew install --cask zoom
+
 # Install Go Lang
 brew install go
 
