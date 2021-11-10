@@ -54,5 +54,3 @@ brew install go
 
 #Install NodeJS
 brew install node
-
-This is a test to commit an update from nano test.
