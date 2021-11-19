@@ -21,6 +21,9 @@ brew install awscli
 # Install VS Code
 brew install --cask visual-studio-code
 
+## This section installs all of the JetBrains products. I own a license for these, so you may want
+## to comment this section out.
+
 # Install PyCharm
 brew install --cask pycharm
 
