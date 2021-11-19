@@ -21,6 +21,18 @@ brew install awscli
 # Install VS Code
 brew install --cask visual-studio-code
 
+# Install PyCharm
+brew install --cask pycharm
+
+# Install WebStorm
+brew install --cask webstorm
+
+# Install GoLand
+brew install --cask goland
+
+# Install IntelliJ
+brew install --cask intellij-idea
+
 # Install VLC
 brew install VLC
 
