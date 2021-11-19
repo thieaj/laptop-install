@@ -5,7 +5,7 @@ sudo scutil --set HostName "HostName"
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-//TODO: add wait comment here while homebrew installs
+# TODO: add wait comment here while homebrew installs
 
 # Check Homebrew for latest version and install
 brew update and upgrade
