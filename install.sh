@@ -1,12 +1,13 @@
 #Set Hostname of laptop
-sudo scutil --set HostName {HostName}
+# Make sure you set your hostname here, before running this script.
+sudo scutil --set HostName "HostName"
 
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# add wait comment here while homebrew installs
+//TODO: add wait comment here while homebrew installs
 
-# Check Homebrew for latest verison and install
+# Check Homebrew for latest version and install
 brew update and upgrade
 
 # Install Brave Browser
@@ -55,7 +56,7 @@ brew install --cask lastpass
 # Install Setapp
 brew install --cask setapp
 
-# Intstall PocketCasts
+# Install PocketCasts
 brew install --cask pocket-casts
 
 # Install Zoom
