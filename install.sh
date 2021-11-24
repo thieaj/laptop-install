@@ -22,7 +22,7 @@ brew install --cask gitkraken
 # Install AWS CLI v2
 brew install awscli
 
-# These lines install JetBrains applications. I have a licensed version od these. You may want to comment them out.
+# These lines install JetBrains applications. I have a licensed version of these. You may want to comment them out.
 # Install PyCharm
 brew install --cask pycharm
 
