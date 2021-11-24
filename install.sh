@@ -16,14 +16,11 @@ brew install --cask brave-browser
 # Install git
 brew install git
 
+# Install GitKraken
+brew install --cask gitkraken
+
 # Install AWS CLI v2
 brew install awscli
-
-# Install VS Code
-brew install --cask visual-studio-code
-
-## This section installs all of the JetBrains products. I own a license for these, so you may want
-## to comment this section out.
 
 # Install PyCharm
 brew install --cask pycharm
@@ -68,5 +65,8 @@ brew install --cask zoom
 # Install Go Lang
 brew install go
 
-#Install NodeJS
+# Install NodeJS
 brew install node
+
+# Install Audacity
+brew install --cask audacity
