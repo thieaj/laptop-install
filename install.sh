@@ -1,3 +1,9 @@
+#!/bin/bash
+# ------------------------------------------------------------------
+# [Author] Taj
+# [Title] MacBook Install Script
+# ------------------------------------------------------------------
+
 #Set Hostname of laptop
 # Make sure you set your hostname here, before running this script.
 sudo scutil --set HostName "HostName"
