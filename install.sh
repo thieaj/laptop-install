@@ -27,3 +27,5 @@ brew install hashicorp/tap/terraform
 brew upgrade hashicorp/tap/terraform
 # Install cloud-nuke
 brew install cloud-nuke
+# Docker
+brew install docker
