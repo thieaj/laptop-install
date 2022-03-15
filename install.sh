@@ -10,7 +10,7 @@ brew install git
 # Install `fish`
 brew install fish
 # Install Gitkraken
-brew install Gitkraken
+brew install --cask gitkraken
 # Install AWS CLI v2
 brew install awscli
 # These lines install JetBrains applications. I have a licensed version of these. You may want to comment them out.
