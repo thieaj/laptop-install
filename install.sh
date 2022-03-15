@@ -11,6 +11,8 @@ brew install git
 brew install fish
 # Install Gitkraken
 brew install --cask gitkraken
+# Install Brave
+brew install --cask brave-browser
 # Install AWS CLI v2
 brew install awscli
 # These lines install JetBrains applications. I have a licensed version of these. You may want to comment them out.
