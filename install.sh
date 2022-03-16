@@ -35,3 +35,5 @@ brew upgrade hashicorp/tap/terraform
 brew install cloud-nuke
 # Docker
 brew install docker
+# Install `neomutt`
+brew install neomutt
