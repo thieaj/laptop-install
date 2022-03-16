@@ -35,8 +35,5 @@ brew upgrade hashicorp/tap/terraform
 brew install cloud-nuke
 # Docker
 brew install docker
-<<<<<<< HEAD
-# Install `neomutt`
-brew install neomutt
-=======
->>>>>>> main
+# Install VS Code
+brew install --cask visual-studio-code
