@@ -34,6 +34,6 @@ brew upgrade hashicorp/tap/terraform
 # Install cloud-nuke
 brew install cloud-nuke
 # Docker
-brew install docker
+#brew install docker
 # Install VS Code
 brew install --cask visual-studio-code
