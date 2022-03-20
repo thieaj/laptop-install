@@ -7,8 +7,6 @@ sudo scutil --set HostName "HostName"
 brew update and upgrade
 # Install git
 brew install git
-# Install `fish`
-brew install fish
 # Install Gitkraken
 brew install --cask gitkraken
 # Install Brave
@@ -33,8 +31,4 @@ brew install hashicorp/tap/terraform
 brew upgrade hashicorp/tap/terraform
 # Install cloud-nuke
 brew install cloud-nuke
-# Docker
-#brew install docker
-# Install VS Code
-brew install --cask visual-studio-code
-#add something here
+
