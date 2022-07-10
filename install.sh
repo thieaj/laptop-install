@@ -3,14 +3,10 @@ sudo scutil --set HostName "HostName"
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 # TODO: add wait comment here while homebrew installs
-# Check Homebrew for latest version and install
-brew update and upgrade
 # Install git
 brew install git
 # Install Gitkraken
 brew install --cask gitkraken
-# Install Brave
-brew install --cask brave-browser
 # Install AWS CLI v2
 brew install awscli
 # These lines install JetBrains applications. I have a license for these. You may want to comment them out.
@@ -31,6 +27,3 @@ brew install hashicorp/tap/terraform
 brew upgrade hashicorp/tap/terraform
 # Install cloud-nuke
 brew install cloud-nuke
-# Install `mutt` mail
-brew install mutt
-
